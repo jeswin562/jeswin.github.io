@@ -1,1 +1,1 @@
-# jeswin.github.io
+# Qr code generator
